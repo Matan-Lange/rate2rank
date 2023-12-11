@@ -40,7 +40,7 @@ const QesCard = ({
     tempCrowdRatings[`${e.target.id}`] = parseInt(e.target.value);
 
     // let sumRatings = 0;
-
+//ELI
     // for (let key in tempCrowdRatings) {
     //   if (tempCrowdRatings.hasOwnProperty(key)) {
     //     sumRatings += tempCrowdRatings[key];
